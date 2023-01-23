@@ -1,0 +1,57 @@
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #f8f8f8;
+    height: 75vh;
+    width: 89vw;
+    background-size: cover;
+    padding-left: 150px;
+    padding-top: 80px;
+}
+
+.input-contact-details-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.input-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-styling {
+    background-color: #ffffff;
+    font-family: "lato" sans-serif;
+    padding-left: 15px;
+    border-color: none;
+    margin-bottom: 15px;
+    height: 30px;
+    width: 420px;
+    margin-right: 40px;
+    border-color: #ccc;
+    border-radius: 5px;
+    border: 0;
+}
+.btn-send {
+    background-color: #ffd34e;
+    height: 30px;
+    width: 90px;
+    border: 0;
+}
+
+.email-heading {
+    color: #2b2b2b;
+    font-family: "Lato" sans-serif;
+    font-weight: 700;
+}
+
+.visit-us {
+    color: #2b2b2b;
+    font-family: "Lato" sans-serif;
+    font-weight: 400;
+}
+
+.address {
+    font-weight: 400;
+    font-family: "Lato" sans-serif;
+}
